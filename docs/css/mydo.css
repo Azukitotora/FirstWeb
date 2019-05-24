@@ -5,6 +5,7 @@ body {
 }
 
 .details{
+  list-style-type: none;
 }
 
 #meet .inner{
