@@ -18,21 +18,47 @@ body {
   font-size: 150%;
   font-family: serif;
   padding: 1%;
+  margin: 2%;
 }
 
 #meet h2{
   font-size: 150%;
   font-family: serif;
   padding: 1%;
+  margin: 2%;
 }
 
 #meet h3{
   font-size: 150%;
   font-family: serif;
   padding: 1%;
+  margin: 2%;
+}
+
+#meet h4{
+  font-size: 150%;
+  font-family: serif;
+  padding: 1%;
+  margin: 2%;
 }
 
 .details li{
   padding: 0.5%;
   font-family: 'Franklin Gothic Medium';
+}
+
+ol{
+  list-style-type: decimal;
+}
+
+ol li{
+  list-style-position: inside;
+}
+
+.events ol li:last-child{
+  margin-bottom: 3%;
+}
+
+ul li{
+  list-style-position: inside;
 }
